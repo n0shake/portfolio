@@ -1,0 +1,27 @@
+.container {
+	width: 989px;
+	margin: 0 auto;
+	background-color: white;
+	padding: 5px;
+	text-align: center;
+}
+
+p, h3 {
+	text-align: left;
+	font-family: "Varela Round";
+	font-size: 35px;
+}
+
+a:hover {
+	color:rgb(211, 101, 33);
+}
+
+a {
+	color: rgb(176,83,25);
+	text-decoration-line: none;
+}
+
+footer {
+	font-family: "Varela Round";
+	font-size: 12px;
+}

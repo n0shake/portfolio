@@ -1,0 +1,60 @@
+
+header {
+	background-color: white;
+	font-family: 'Varela Round', serif; 
+}
+
+body {
+	font-family: Helvetica;
+	font-size: 14px;
+}
+
+/*Start with the following always.*/
+html, body {
+	padding: 0;
+	margin: 0;
+}
+
+#main {
+	text-align: center;
+	font-family: "Varela Round";
+}
+
+.container {
+	width: 600px;
+	margin: 0 auto;
+	background-color: white;
+	padding: 5px;
+}
+
+.name {
+	text-align: center;
+	font-family: "Varela Round";
+	font-style: normal;
+	font-weight: 500px;
+	line-height: 50px;
+	font-size: 40px;
+}
+
+.bordered-image {
+	width: 64px;
+	height: 64px;
+}
+
+.footer {
+	text-align: center;
+}
+
+.darkgray {
+	color: rgb(176,83,25);
+	text-decoration: none;
+}
+
+.mail {
+	color: rgb(176,83,25);
+	text-decoration-line: none;
+}
+
+a:hover {
+	color: rgb(211, 101, 33);
+}
